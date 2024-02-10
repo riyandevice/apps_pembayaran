@@ -1,0 +1,1 @@
+[09-Dec-2018 08:25:43 Asia/Jakarta] PHP Warning:  file_exists(): open_basedir restriction in effect. File(/var/www/aqvatariusv/aqvatarius.com/development/s/assets/uploads) is not within the allowed path(s): (/home/smkh1647/:/usr/lib/php:/usr/local/lib/php:/var/cpanel/php/sessions:/tmp) in /home/smkh1647/public_html/spp/assets/assets/filetree/jqueryFileTree.php on line 21

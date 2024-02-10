@@ -1,0 +1,2 @@
+[13-Feb-2019 22:43:27 Asia/Bangkok] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smkh1647/public_html/spp/page/siswa/hak-akses.php:8) in /home/smkh1647/public_html/spp/page/siswa/add.php on line 132
+[13-Feb-2019 22:44:33 Asia/Bangkok] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/smkh1647/public_html/spp/page/siswa/hak-akses.php:8) in /home/smkh1647/public_html/spp/page/siswa/index.php on line 123
